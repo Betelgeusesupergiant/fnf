@@ -1,0 +1,14 @@
+This song already has alerts in the audio so you need to learn a few things...
+
+Alerts in the song :
+
+* As you noticed, there are saws in the song but sometimes there is no alert, well this is a feature since the audio already has the alert sounds! (But I cannot seperate the voices ;-;)
+
+* 1, 1 alert is 1 sawblade
+
+* 1, 2 alert is 2 sawblades
+
+* 1, 2, 3 alert is 1 instakill sawblade
+
+* 1, 2, 3, 4 alert is 2 instakill sawblades
+

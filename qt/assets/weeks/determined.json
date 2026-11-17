@@ -1,6 +1,6 @@
 {
 	"songs": [
-		["Determination", "gf", [165, 0, 77]]
+		["Determination", "kb", [165, 0, 77]]
 	],
 
 	"weekCharacters": [
@@ -11,8 +11,8 @@
 	"weekBackground": "stage",
 
 	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
+	"weekBefore": "qt",
+	"weekName": "determined",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
